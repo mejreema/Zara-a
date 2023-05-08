@@ -2,7 +2,6 @@
 //  info4.swift
 //  toto
 //
-//  Created by Taala Alhassan on 17/05/1444 AH.
 //
 
 import SwiftUI
