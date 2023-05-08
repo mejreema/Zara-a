@@ -2,7 +2,6 @@
 //  ZaraaaUITestsLaunchTests.swift
 //  ZaraaaUITests
 //
-//  Created by Mzoon Al Rubaish on 18/05/1444 AH.
 //
 
 import XCTest
