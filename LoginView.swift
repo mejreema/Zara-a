@@ -2,7 +2,6 @@
 //  LoginView.swift
 //  Zaraa
 //
-//  Created by madawi alshaikh on 13/05/1444 AH.
 //
 
 import SwiftUI
