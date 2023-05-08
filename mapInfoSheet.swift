@@ -2,7 +2,6 @@
 //  mapInfoSheet.swift
 //  toto
 //
-//  Created by Taala Alhassan on 12/05/1444 AH.
 //
 
 import SwiftUI
