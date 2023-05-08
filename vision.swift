@@ -2,7 +2,6 @@
 //  vision.swift
 //  Zaraa
 //
-//  Created by Mzoon Al Rubaish on 13/05/1444 AH.
 //
 
 import SwiftUI
