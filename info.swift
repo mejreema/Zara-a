@@ -2,7 +2,6 @@
 //  info.swift
 //  toto
 //
-//  Created by Taala Alhassan on 14/05/1444 AH.
 //
 
 import SwiftUI
