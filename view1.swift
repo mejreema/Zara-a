@@ -2,7 +2,6 @@
 //  view1.swift
 //  Ztest
 //
-//  Created by razan on 14/05/1444 AH.
 //
 
 import SwiftUI
