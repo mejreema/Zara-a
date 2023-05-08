@@ -2,7 +2,6 @@
 //  ContentView3.swift
 //  Zaraaa
 //
-//  Created by razan on 21/05/1444 AH.
 //
 
 import SwiftUI
