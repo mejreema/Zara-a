@@ -2,7 +2,6 @@
 //  area.swift
 //  toto
 //
-//  Created by Taala Alhassan on 18/05/1444 AH.
 //
 
 import SwiftUI
